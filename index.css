@@ -1,0 +1,34 @@
+.header ul li{
+    display: inline-block;
+    padding: 20px;
+    font-family: roboto;
+    font-size: 30px;
+    font-weight: bold;
+    }
+    .modules{
+        list-style-type: circle;
+        font-size: 30px;
+    font-weight: bold;
+    }
+a:hover
+{
+color:yellowgreen;
+}
+a:active{
+    color:darkmagenta;
+}
+a:link{
+
+    color:tomato;
+}
+h1{
+    color:grey;
+}
+#section ul li {
+    color:brown;
+    display:block;
+    margin:70px;
+}
+#section p{
+    font-size: 25px;
+}
